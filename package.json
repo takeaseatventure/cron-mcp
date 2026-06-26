@@ -1,0 +1,44 @@
+{
+  "name": "cron-mcp-server",
+  "version": "0.1.0",
+  "description": "MCP server that lets AI coding agents parse, validate, explain, and preview cron expressions. Catches silent cron bugs (impossible schedules, OR-semantics, midnight spikes) before deployment.",
+  "main": "index.js",
+  "bin": {
+    "cron-mcp-server": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "cron",
+    "crontab",
+    "cron-expression",
+    "schedule",
+    "ai-tools",
+    "llm-tools",
+    "claude",
+    "cursor",
+    "copilot"
+  ],
+  "author": "takeaseatventure",
+  "license": "MIT",
+  "homepage": "https://github.com/takeaseatventure/cron-mcp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/takeaseatventure/cron-mcp"
+  },
+  "bugs": {
+    "url": "https://github.com/takeaseatventure/cron-mcp/issues"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "zod": "^3.23.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
