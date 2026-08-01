@@ -30,6 +30,12 @@ Cron expressions are deceptively tricky. Common silent failures:
 npm install -g cron-mcp-server
 ```
 
+## Published links
+
+- [npm package](https://www.npmjs.com/package/cron-mcp-server) — installable release `0.1.2`
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.takeaseatventure%2Fcron-mcp/versions/0.1.2) — registry record
+- [GitHub release](https://github.com/takeaseatventure/cron-mcp/releases/tag/v0.1.2) — downloadable source checkpoint
+
 ## Configure
 
 ### Claude Desktop
