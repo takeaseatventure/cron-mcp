@@ -21,7 +21,7 @@ const {
 const cron = require('./lib/cron');
 
 const SERVER_NAME = 'cron-mcp-server';
-const SERVER_VERSION = '0.1.0';
+const SERVER_VERSION = require('./package.json').version;
 
 // ---- Tool definitions ----
 

@@ -1,6 +1,6 @@
 {
   "name": "cron-mcp-server",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "mcpName": "io.github.takeaseatventure/cron-mcp",
   "description": "MCP server that lets AI coding agents parse, validate, explain, and preview cron expressions. Catches silent cron bugs (impossible schedules, OR-semantics, midnight spikes) before deployment.",
   "main": "index.js",
