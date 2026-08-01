@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.takeaseatventure/cron-mcp",
-  "description": "Parse, validate, explain, and preview cron expressions for AI coding agents. Catches impossible schedules, OR-semantics traps, midnight spikes, and other silent cron failures before deployment.",
+  "description": "MCP cron validator for AI agents; flags impossible schedules and other silent cron bugs.",
   "repository": {
     "url": "https://github.com/takeaseatventure/cron-mcp",
     "source": "github"
