@@ -36,8 +36,11 @@
     "url": "https://github.com/takeaseatventure/cron-mcp/issues"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.0.0",
+    "@modelcontextprotocol/sdk": "^1.30.0",
     "zod": "^3.23.0"
+  },
+  "overrides": {
+    "fast-uri": "^3.1.5"
   },
   "engines": {
     "node": ">=18"
