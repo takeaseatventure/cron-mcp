@@ -35,6 +35,7 @@ npm install -g cron-mcp-server
 - [npm package](https://www.npmjs.com/package/cron-mcp-server) — installable release `0.1.2`
 - [Official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.takeaseatventure%2Fcron-mcp/versions/0.1.2) — registry record
 - [GitHub release](https://github.com/takeaseatventure/cron-mcp/releases/tag/v0.1.2) — downloadable source checkpoint
+- [Glama listing](https://glama.ai/mcp/servers/takeaseatventure/cron-mcp) — public directory listing and score page
 
 ## Configure
 
